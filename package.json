@@ -1,6 +1,6 @@
 {
-  "name": "nest-cache-manager",
-  "version": "5.2.6",
+  "name": "nest-cache-manager2",
+  "version": "5.2.5",
   "description": "Cache module for Nest.js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -28,19 +28,6 @@
     "lru-cache",
     "memory cache",
     "multiple cache"
-  ],
-  "authors": [
-    {
-      "name": "Jared Wray",
-      "email": "me@jaredwray.com"
-    },
-    {
-      "name": "Bryan Donovan"
-    },
-    {
-      "name": "Don Freddy",
-      "email": "freddytamwo@gmail.com"
-    }
   ],
   "license": "MIT",
   "dependencies": {
