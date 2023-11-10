@@ -1,6 +1,6 @@
 {
   "name": "nest-cache-manager",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "description": "Cache module for Nest.js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "@faker-js/faker": "8.1.0",
-    "@types/lodash.clonedeep": "4.5.7",
+    "@types/lodash.clonedeep": "4.5.9",
     "@types/node": "20.8.2",
     "@typescript-eslint/eslint-plugin": "6.7.4",
     "@typescript-eslint/parser": "6.7.4",
