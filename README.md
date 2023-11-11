@@ -1,9 +1,9 @@
-# nest-cache-manager 
+# @dfreddy/cache-manager2 
 [![codecov](https://codecov.io/gh/node-cache-manager/node-cache-manager/branch/master/graph/badge.svg?token=ZV3G5IFigq)](https://codecov.io/gh/nest-cache-manager/nest-cache-manager)
 [![tests](https://github.com/node-cache-manager/node-cache-manager/actions/workflows/test.yml/badge.svg)](https://github.com/donfreddy/nest-cache-manager/actions/workflows/test.yml)
-[![license](https://img.shields.io/github/license/node-cache-manager/node-cache-manager)](https://github.com/donfreddy/nest-cache-manager/blob/main/LICENSE)
-[![npm](https://img.shields.io/npm/dm/nest-cache-manager)](https://npmjs.com/package/nest-cache-manager)
-![npm](https://img.shields.io/npm/v/nest-cache-manager)
+[![license](https://img.shields.io/github/license/@dfreddy/cache-manager2/@dfreddy/cache-manager2)](https://github.com/donfreddy/nest-cache-manager/blob/main/LICENSE)
+[![npm](https://img.shields.io/npm/dm/nest-cache-manager)](https://npmjs.com/package/@dfreddy/cache-manager2)
+![npm](https://img.shields.io/npm/v/@dfreddy/cache-manager2r)
 
 # Flexible NestJS cache module
 
@@ -20,14 +20,14 @@ A cache module for nestjs that allows easy wrapping of functions in cache, tiere
 
 ## Installation
 
-    pnpm install nest-cache-manager
+    pnpm install @dfreddy/cache-manager2
 
 ## Usage Examples
 
 ### Single Store
 
 ```typescript
-import { caching } from 'nest-cache-manager';
+import { caching } from '@dfreddy/cache-manager2';
 
 const memoryCache = await caching('memory', {
   max: 100,
@@ -87,7 +87,7 @@ You can use your own custom store by creating one with the same API as the built
 ### Multi-Store
 
 ```typescript
-import { multiCaching } from 'nest-cache-manager';
+import { multiCaching } from '@dfreddy/cache-manager2';
 
 const multiCache = multiCaching([memoryCache, someOtherCache]);
 const userId2 = 456;
