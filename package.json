@@ -1,6 +1,6 @@
 {
-  "name": "nest-cache-manager2",
-  "version": "5.2.5",
+  "name": "@dfreddy/cache-manager2",
+  "version": "5.2.6",
   "description": "Cache module for Nest.js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/donfreddy/nest-cache-manager.git"
+    "url": "https://github.com/donfreddy/cache-manager2.git"
   },
   "keywords": [
     "cache",
