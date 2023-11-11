@@ -1,7 +1,7 @@
 # nest-cache-manager 
-[![codecov](https://codecov.io/gh/node-cache-manager/node-cache-manager/branch/master/graph/badge.svg?token=ZV3G5IFigq)](https://codecov.io/gh/node-cache-manager/node-cache-manager)
-[![tests](https://github.com/node-cache-manager/node-cache-manager/actions/workflows/test.yml/badge.svg)](https://github.com/node-cache-manager/node-cache-manager/actions/workflows/test.yml)
-[![license](https://img.shields.io/github/license/node-cache-manager/node-cache-manager)](https://github.com/node-cache-manager/node-cache-manager/blob/master/LICENSE)
+[![codecov](https://codecov.io/gh/node-cache-manager/node-cache-manager/branch/master/graph/badge.svg?token=ZV3G5IFigq)](https://codecov.io/gh/nest-cache-manager/nest-cache-manager)
+[![tests](https://github.com/node-cache-manager/node-cache-manager/actions/workflows/test.yml/badge.svg)](https://github.com/donfreddy/nest-cache-manager/actions/workflows/test.yml)
+[![license](https://img.shields.io/github/license/node-cache-manager/node-cache-manager)](https://github.com/donfreddy/nest-cache-manager/blob/main/LICENSE)
 [![npm](https://img.shields.io/npm/dm/nest-cache-manager)](https://npmjs.com/package/nest-cache-manager)
 ![npm](https://img.shields.io/npm/v/nest-cache-manager)
 
